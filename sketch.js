@@ -7,7 +7,7 @@ var i;
   //loadImage (carregarImagem) da pista)
   pathImg = loadImage("path.png");
   //loadAnimation (carregarAnimação) de corrida para o menino
-  boyImg = loadAnimation ("jake1.png","jake2.png","jake3.png","jake4.png","jake5.png");
+  boyImg = loadAnimation ("jake3.png","jake4.png","jake5.png");
  
 }
 
